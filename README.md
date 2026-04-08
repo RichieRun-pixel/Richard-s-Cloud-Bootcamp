@@ -1,5 +1,0 @@
-﻿# Richard-s-Cloud-Bootcamp
-Updating 
-
-Making changes to git commands 
-made new git branch tutorial/git 
